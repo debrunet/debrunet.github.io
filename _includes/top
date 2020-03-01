@@ -9,3 +9,4 @@
 {% include katex %}
 </head>
 <body>
+<div class="content">
